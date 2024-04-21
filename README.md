@@ -43,7 +43,7 @@ The application follows these steps to create supirior RAG pipeline to provide r
 
 Clone the repository:
 
-`git clone https://github.ibm.com/kirtijha/watsonx-chat-with-complex-pdf-LlamaParse.git`
+`git clone https://github.com/IBM/watsonx-chat-complex-pdf-LlamaParser.git`
 
 Install the required Python packages:
 
